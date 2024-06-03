@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"lt.techin.philatelist.base","l":"BaseIOTest"},{"p":"lt.techin.philatelist","l":"Philatelist"},{"p":"lt.techin.philatelist","l":"PhilatelistBaseTest"},{"p":"lt.techin.philatelist","l":"PostStamp"}];updateSearchResults();
